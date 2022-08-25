@@ -2,8 +2,8 @@ import "./App.css";
 import { CustomerList } from "./components/CustomerList";
 import { fetchCustomers } from "./features/customerSlice";
 import { fetchCalls } from "./features/callSlice";
-import { useEffect, useState } from "react";
-import { useDispatch, useSelector } from "react-redux";
+import { useEffect } from "react";
+import { useDispatch } from "react-redux";
 import { Typography } from "@mui/material";
 
 function App() {
