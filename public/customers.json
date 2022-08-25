@@ -1,0 +1,35 @@
+
+[
+  {
+    "Id": "801409",
+    "Name": "tiger lilly",
+    "phoneNumbers":["0538096525", "0539375532"],
+    "city":"תל אביב"
+  },
+  
+  {
+    "Id": "800877",
+    "Name": "butchery",
+    "phoneNumbers":[],
+    "city":"רמת גן"
+  },
+  {
+    "Id": "80161",
+    "Name": "ארומה",
+    "phoneNumbers":["0537104537"],
+	  "city":"תל אביב"
+  },
+  {
+    "Id": "80223",
+    "Name": "ארומה1",
+    "phoneNumbers":["0534556454"],
+	"city":"רמת גן"
+  },
+  {
+    "Id": "80155",
+    "Name": "BiGA",
+    "phoneNumbers":["0505104522"],
+    "city":"חולון"
+  }
+  
+]
